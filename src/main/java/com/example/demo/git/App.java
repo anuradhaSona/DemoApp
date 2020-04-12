@@ -8,7 +8,11 @@ public class App {
 		}
 	}
 	public void printMethod() {
-			System.out.println("Welcome Sona!!!");
+			System.out.println("Sona!!!");
+		
+	}
+	public void printMethod1() {
+			System.out.println("Jaanu!!!");
 		
 	}
 	
